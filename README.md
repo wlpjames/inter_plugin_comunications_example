@@ -1,4 +1,4 @@
-# Inter_Plugin_Comunication_Test
+# inter_plugin_comunications_example
 
 A short demo of two methods of inter-plugin communication with juce, tested on Mac in Logic, Ableton and the AudioPluginHost
 
